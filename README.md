@@ -1,1 +1,0 @@
-<img src="./src/assets/db_workbench.png" alt="DER">
